@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EtufxM0iCDA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\colom\\.gemini\\antigravity-ide\\scratch\\fsharp_playground\\fsharp_bubblesort\\fsharp_bubblesort.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\colom\\.nuget\\packages\\fsharp.core\\10.1.302\\fsharp.core.10.1.302.nupkg.sha512"
+  ],
+  "logs": []
+}
